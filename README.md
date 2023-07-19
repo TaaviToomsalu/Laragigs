@@ -12,4 +12,4 @@ Right now working home page with all the listings and pagination, tags, search, 
 
 
 
-<img width="1440" alt="Screenshot 4" src="https://github.com/TaaviToomsalu/Laragigs/assets/51129235/050b7711-05a3-4fa5-8663-97449f08f64a">
+<img width="1440" alt="Screenshot 4" src="https://github.com/TaaviToomsalu/Laragigs/assets/51129235/15cd5d1f-26e2-4202-b69a-71411e090b02">
